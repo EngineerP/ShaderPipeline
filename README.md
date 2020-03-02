@@ -1,6 +1,6 @@
 # Computer Graphics – Shader Pipeline
 
-![](images/earth.gif)
+![](images/Terraforming_Mars.gif)
 
 ## Background
 
